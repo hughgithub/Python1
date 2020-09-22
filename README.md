@@ -1,4 +1,1 @@
-# Python1
-Some codes
-This is a test of adding some info.
-From the master branch.
+This is a simple test of the profitability of analyst "buy" calls
